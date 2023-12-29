@@ -1,4 +1,4 @@
-# REST API Checkpoint
+#HOW TO RUN THIS REST API PROJECT 
 
 This project is a simple REST API with CRUD operations for managing user data.
 
